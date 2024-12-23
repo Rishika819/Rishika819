@@ -1,6 +1,7 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [aboutpage](https://rishika819.github.io/Rishika819/about/).
 
 ## Commands
 
@@ -16,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-For full documentation visit [aboutpage](https://rishika819.github.io/Rishika819/about/).
+
